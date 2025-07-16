@@ -37,10 +37,10 @@
 
 ### 📦 Python Libraries & Frameworks
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="Pandas" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/512px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="60" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" />
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="40" style="background:white; border-radius:6px; padding:2px;" />
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" height="40" />
 </p>
 
 
