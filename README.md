@@ -1,7 +1,7 @@
 <img src="welcome.gif" width="100%" />
 
 <h4> Hi there <span style="display:inline-block; animation:wave 2.5s infinite">👋</span> </h4>
-### I'm Shruti Natekar
+<h3> I'm Shruti Natekar </h3>
 
 🎓 A Computer Engineering student in BE, passionate about creating meaningful digital experiences through code and design.  
 💻 I enjoy building full-stack web and mobile applications, exploring open source, and experimenting with new technologies.  
