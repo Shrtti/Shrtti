@@ -5,7 +5,7 @@
 
 🎓 A Computer Engineering student in BE, passionate about creating meaningful digital experiences through code and design.  
 💻 I enjoy building full-stack web and mobile applications, exploring open source, and experimenting with new technologies.  
-🎨 Also skilled in UI/UX & Design tools like Figma, Blender and Canva.
+🎨 Also skilled in UI/UX & Design tools like Figma, Blender and Canva. <br>
 📫 Let's connect below!
 
 
