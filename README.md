@@ -1,8 +1,12 @@
 <img src="welcome.gif" width="100%" />
 
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shrtti&theme=tokyonight" alt="GitHub Streak" width="100%" />
-</a>
+<h2>Hi there <span style="display:inline-block; animation:wave 2.5s infinite">👋</span> I'm Shruti Natekar</h2>
+
+🎓 A Computer Engineering student in BE, passionate about creating meaningful digital experiences through code and design.  
+💻 I enjoy building full-stack web and mobile applications, exploring open source, and experimenting with new technologies.  
+🎨 Also skilled in UI/UX & Design tools like Figma, Blender and Canva.
+📫 Let's connect below!
+
 
 ### 💻 Languages
 
@@ -26,15 +30,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color:white; border-radius:5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
 
 
 
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shrtti&theme=tokyonight" alt="GitHub Streak" width="100%" />
+</a>
 
 
-### 📫 Connect with Me
+
+
+### ✉️ Connect with Me
 
 <a href="https://www.linkedin.com/in/shruti-natekar-a013b228a/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
