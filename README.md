@@ -1,6 +1,6 @@
 <img src="welcome.gif" width="100%" />
 
-Hi there <span style="display:inline-block; animation:wave 2.5s infinite">👋</span> 
+<h4> Hi there <span style="display:inline-block; animation:wave 2.5s infinite">👋</span> </h4>
 ### I'm Shruti Natekar
 
 🎓 A Computer Engineering student in BE, passionate about creating meaningful digital experiences through code and design.  
@@ -34,6 +34,15 @@ Hi there <span style="display:inline-block; animation:wave 2.5s infinite">👋</
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </p>
+
+### 📦 Python Libraries & Frameworks
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="Pandas" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/512px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="60" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" />
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="60" />
+</p>
+
 
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shrtti&theme=tokyonight" alt="GitHub Streak" width="100%" />
