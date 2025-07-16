@@ -44,9 +44,7 @@
 </p>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shrtti&theme=tokyonight)
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shrtti&theme=tokyonight" alt="GitHub Streak" width="100%" />
 
 
 
