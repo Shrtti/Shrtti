@@ -1,6 +1,7 @@
 <img src="welcome.gif" width="100%" />
 
-<h2>Hi there <span style="display:inline-block; animation:wave 2.5s infinite">👋</span> I'm Shruti Natekar</h2>
+Hi there <span style="display:inline-block; animation:wave 2.5s infinite">👋</span> 
+### I'm Shruti Natekar
 
 🎓 A Computer Engineering student in BE, passionate about creating meaningful digital experiences through code and design.  
 💻 I enjoy building full-stack web and mobile applications, exploring open source, and experimenting with new technologies.  
@@ -8,7 +9,7 @@
 📫 Let's connect below!
 
 
-### 💻 Languages
+### ⚙️ Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -21,7 +22,6 @@
 
 ### 🚀 Frameworks & Technologies
 
-<h3>🚀 Frameworks & Technologies</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
