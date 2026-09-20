@@ -41,11 +41,6 @@
 
 ### AI / Machine Learning
 
-<p align="left">
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/ultralytics/assets@main/yolo/ultralytics-yolo-dark.svg" alt="YOLO" height="40" />
-</p>
-
 * PyTorch
 * YOLO
 * OpenCV
