@@ -1,54 +1,73 @@
 <img src="welcome.gif" width="100%" />
 
-<h4> Hi there <span style="display:inline-block; animation:wave 2.5s infinite">👋</span> </h4>
-<h3> I'm Shruti Natekar </h3>
+<h4>Hi there 👋</h4>
+<h3>I'm Shruti Natekar</h3>
 
-🎓 A Computer Engineering student in BE, passionate about creating meaningful digital experiences through code and design.  
-💻 I enjoy building full-stack web and mobile applications, exploring open source, and experimenting with new technologies.  
-🎨 Also skilled in UI/UX & Design tools like Figma, Blender and Canva. <br>
-📫 Let's connect below!
+* Computer Engineering graduate with experience in production iOS development and full-stack web development.
+* Experienced in building, debugging, and maintaining production applications using SwiftUI, UIKit, ReactJS, NextJS, and REST APIs.
+* Interested in AI, computer vision, accessibility-focused technology, and building practical software solutions.
+* Experienced with UI/UX and design tools including Figma.
+* Let's connect below!
 
-
-### ⚙️ Languages
+### Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
 
-### 🚀 Frameworks & Technologies
+### Frameworks & Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="SwiftUI / UIKit" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40" style="background-color:white; border-radius:5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="HapiJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color:white; border-radius:5px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="Wix" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-### 📦 Python Libraries & Frameworks
+### APIs & Real-Time Technologies
+
+* REST APIs
+* WebSockets
+* Real-time data synchronization
+* Connected hardware integration
+
+### AI / Machine Learning
+
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="40" style="background:white; border-radius:6px; padding:2px;" />
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/ultralytics/assets@main/yolo/ultralytics-yolo-dark.svg" alt="YOLO" height="40" />
 </p>
 
+* PyTorch
+* YOLO
+* OpenCV
+* MiDaS Depth Estimation
+* OCR
+* Text-to-Speech
+
+### Development Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</p>
+
+### GitHub
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Shrtti&theme=tokyonight" alt="GitHub Streak" width="100%" />
 
-
-
-### ✉️ Connect with Me
+### Connect with Me
 
 <a href="https://www.linkedin.com/in/shruti-natekar-a013b228a/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
